@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "dora-chat-bot"
+  },
+  "targets": {
+    "dora-chat-bot": {
+      "hosting": {
+        "ask-does": [
+          "ask-does"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
