@@ -77,10 +77,10 @@
 				DevOps Enterprise Summit is a conference to connect with and learn alongside technology
 				leaders driving change in their organizations. This app uses <A
 					href="https://cloud.google.com/generative-ai-app-builder/docs/introduction"
-					class="font-medium hover:underline break-normal">Vertex AI Search</A
+					class="font-medium hover:underline text-[#0000EE] break-normal">Vertex AI Search</A
 				> and generative AI functionality in <A
 					class="font-medium hover:underline
-    break-normal"
+					text-[#0000EE] break-normal"
 					href="https://cloud.google.com/">Google Cloud</A
 				> to search the content on the DevOps Enterprise Summit website and schedule.
 			</p>
