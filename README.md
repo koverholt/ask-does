@@ -1,19 +1,19 @@
-# Ask DOES
+# Ask DORA
+
+acbfa948-3f08-4275-a651-609ce9be02b1
 
 ## Overview
 
-Web app to search and chat with documents from DevOps Enterprise Summit 2023
-website and schedule.
+Web app to search and chat with documents from dora.dev.
 
 These are the steps that we followed to build the search and chat apps for Ask
-DOES.
+DORA.
 
 ## Steps to create search and chat apps
 
-1. Download the HTML pages from
-   https://itrevolution.com/product/devops-enterprise-summit-las-vegas-2023/ and
-   https://doeslasvegas2023.sched.com/
-2. Upload the HTML pages to a GCS bucket
+1. Download the HTML pages and PDF reports from
+   https://dora.dev/
+2. Upload the HTML pages and PDF reports to a GCS bucket
 3. Create the search and chat apps in
    [Vertex AI Search and Conversation](https://cloud.google.com/generative-ai-app-builder/docs/introduction)
 4. Create unstructured data stores pointing to the GCS bucket
@@ -32,6 +32,6 @@ DOES.
 
 1. Enable the Firebase API
 2. Deploy a default site
-3. Create an additional site for https://ask-does.web.app
+3. Create an additional site for https://ask-dora.web.app
 4. Configure deploy targets in `.firebaserc` and `firebase.json`
-5. Deploy Ask DOES to Firebase Hosting with `firebase deploy`
+5. Deploy Ask DORA to Firebase Hosting with `firebase deploy`
