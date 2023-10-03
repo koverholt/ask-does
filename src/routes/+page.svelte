@@ -63,11 +63,7 @@
 			href="https://cloud.google.com/generative-ai-app-builder/docs/introduction"
 			>Vertex AI Search</NavLi
 		>
-		<NavLi
-			class="text-gray-50"
-			href="https://github.com/koverholt/ask-does"
-			>Source Code</NavLi
-		>
+		<NavLi class="text-gray-50" href="https://github.com/koverholt/ask-does">Source Code</NavLi>
 	</NavUl>
 </Navbar>
 
