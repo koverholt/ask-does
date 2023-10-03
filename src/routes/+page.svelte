@@ -46,7 +46,7 @@
 <Navbar class="bg-gray-600 pt-2">
 	<NavBrand>
 		<span class="self-center whitespace-nowrap text-xl font-semibold text-[#e4fef6]">
-			Ask DOES (DevOps Enterprise Summit)
+			Ask DOES
 		</span>
 	</NavBrand>
 	<NavUl>
